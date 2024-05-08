@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "master-bruin-417400",
+  "private_key_id": "ae91f5cdb4c85fbc3aeb6469b20e8ba2444444bd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCY8E/z/A84ImhJ\nnU7wlRAwv6YXOO5cq1j9VFz2zXMtvyPPutxyY3rhZ2OUs/tO2eqXn3Los2MI+i+B\nGfmSG+J2FHYRAwSEePZBrdcIY5NT6/y0dm0GKft7RTQA8mFqrfS6+uZmyaoGd7g6\n3k5f3y/wsfM2yEealOKC9yT0KTXYLlkCIfiJwN26ZyTjvYO1o+5L15QYlY0IwAgh\nbbgJWDntG+Y2qo4vH1QgRqA//cjAiMD5H0Ti2d0FpmVuX3iG5W/lMbBn7yAdr02A\nqo0fSDAIxwrupcJB4V1Icb9S3zOJeI+AZx6Eds3W3dHzc0iu0NpY3Ws9ycXxcZmO\nOJvpQlhtAgMBAAECggEAE3ppyGp2GsFhFF0VWHU3rGnAMs10qDdHfG4x79nvPSiO\nnE6RdH0ggZQsHdyFWX/ODbUISsRMDPDmO3ROMZJdF4pYFicS/Hc2b9t+20npUeMo\nmmhJzuLqbUL9UlCMYSyaEnVRgk5VWgEF5PN6umGfxrE3R2cfHXwwVBs7aOBVw/xC\nrLLIO5VOt1mq7Irnhfpz2tYdLwYUYJ8w3OolA2dQt2Yn2/HGtzUhRZRnhOPjxTb7\n1yaNfCaG+U2H0CRl0HUEZullzxJflCQw19T+brC2/fqUTEbOMrUlEBOW10md7Sna\n0QGwl/88z7kIC57F091FA4PPndTtUfrX3azZt96pIQKBgQDRacwjz6lbmAbT8CFv\n00nDVo3xP4LubdmoIjXz6U3SXX4QwYLdj2KD/bCy5ZlnOdVD8aATGLtMBLc1ThVK\nxA/Fuq/Rix2maHs4ivMTmkUDZmCvcSKv5SX30724CxgvVaDtlsqkl6086m09V5OJ\nu+qXbVw9vrHTPS8L04ffVE8DzQKBgQC69kH5TkaUHC8wValHg5yFaYurWtUBW7lX\n45VYKcDOhATwxkBttXb6BlUl1OigtFbBC4CtiBXOX4PErIpAQolz2b4MFlvByIhz\nFlcD4HPMh5ta+yDF7j71EmohTuTvzEY7OVD6OtGPyj06ywFHNN51oAWcA39NqxuB\nykedyhlHIQKBgHa4RfUfa2Hz5BsPDcW5wR2u2jWkzfOh7z00d+XZpDbYrfmN20UE\nXtN5ZU1mgPtWfCNSvm9VHAnSupLLu6JxWIe+eKKQ/bQzk3fQvlGkqe9tgO61cvbJ\nMCc5sVq/X2ymXN+VFzkMjDf2pwuZtJjnIe3LH/oZO/MHwr4vo93mjA0ZAoGAZGc5\nOORzfLjCEsf995zTYsYyrpxCBc+3cl6S5lzN4Vn+uTsOgJxSP6VE9uMm5p7SdCt0\nODz70O90eRtbx3S0ElYd/KnJLwE9XejiY/+W0IEGyk5Q5Fq0zrHL8wVGZw0hrk5y\nkV8jCYBHb5pznkTjLvH38TfjltdMF2CFI1TUTGECgYBFmmNz5hEMwoqzS9yeTrj2\nPxlORDlRn6u343IWgjEYRYOMYl27WKVOedqSC4apFoADGxWn+TSfr3YM65tKY2zW\nzzz2fCBC9RGNZRS6AuFH/3ncGDWGF9SXpWsql7qfdp2HT114Ui9qquec9i6PSMyx\nhMBTQCvbTQ0LY2ju2zsXxQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "clever-cloud@master-bruin-417400.iam.gserviceaccount.com",
+  "client_id": "102853839038195704367",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/clever-cloud%40master-bruin-417400.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
